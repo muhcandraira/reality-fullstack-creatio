@@ -121,7 +121,17 @@
       "BK29": true,
       "BK30": true,
       "BK34": "null",
-      "Labels": [],
+      "Labels": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLabel",
+          "UId": "aafc1ad4-6ef4-0ca3-1737-75b5a5a83e97",
+          "A2": "TerminateEvent1_label1",
+          "A3": "e2bd125c-2798-4aa3-9325-8efa4208def7",
+          "A4": "e2bd125c-2798-4aa3-9325-8efa4208def7",
+          "ParentUId": "fe5e0775-6224-418b-898c-c27486d44b71",
+          "X": -20
+        }
+      ],
       "BK24": []
     }
   }
