@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "fc885833-6890-4e30-9401-a781ba830aee",
+    "Name": "DeleteMinivanCarBodyTypeMSSQL",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1756885100000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

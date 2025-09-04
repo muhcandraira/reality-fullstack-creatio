@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "f4604fb0-dc33-7f43-e797-0962fcb5dd4d",
     "Name": "UsrCarBodyType",
-    "ModifiedOnUtc": "\/Date(1756812806000)\/",
+    "ModifiedOnUtc": "\/Date(1756884845000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "353e4214-ee56-4625-81f5-ee8b88ce027e",
@@ -10,22 +10,29 @@
     },
     "Columns": [
       {
-        "ColumnUId": "4ddb5d93-1e13-7432-09c4-2473197a0e0b",
-        "IsForceUpdate": false,
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
         "IsKey": false,
-        "ColumnName": "UsrCode",
-        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
+        "ColumnUId": "4ddb5d93-1e13-7432-09c4-2473197a0e0b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
         "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "CreatedOn",
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
@@ -38,11 +45,11 @@
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
-        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "ColumnUId": "e86949e7-1ee6-4277-8e20-982a9c673fdb",
         "IsForceUpdate": false,
         "IsKey": false,
-        "ColumnName": "Name",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+        "ColumnName": "RecordInactive",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
       }
     ]
   }

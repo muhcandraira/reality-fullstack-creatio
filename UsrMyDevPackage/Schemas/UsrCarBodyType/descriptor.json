@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "353e4214-ee56-4625-81f5-ee8b88ce027e",
     "Name": "UsrCarBodyType",
-    "ModifiedOnUtc": "\/Date(1756807124000)\/",
+    "ModifiedOnUtc": "\/Date(1756883976000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
