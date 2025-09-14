@@ -376,13 +376,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCalendar">
-			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
+		<Reference Include="CrtEmailTemplate">
+			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtEmailTemplate">
-			<HintPath>$(RelativePkgFolderPath)/CrtEmailTemplate/$(StandalonePackageAssemblyPath)/CrtEmailTemplate.dll</HintPath>
+		<Reference Include="CrtCalendar">
+			<HintPath>$(RelativePkgFolderPath)/CrtCalendar/$(StandalonePackageAssemblyPath)/CrtCalendar.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -421,13 +421,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtMobileFreedomUIStylesFor7x">
-			<HintPath>$(RelativePkgFolderPath)/CrtMobileFreedomUIStylesFor7x/$(StandalonePackageAssemblyPath)/CrtMobileFreedomUIStylesFor7x.dll</HintPath>
+		<Reference Include="CrtCopilotIntentsStudio">
+			<HintPath>$(RelativePkgFolderPath)/CrtCopilotIntentsStudio/$(StandalonePackageAssemblyPath)/CrtCopilotIntentsStudio.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCopilotIntentsStudio">
-			<HintPath>$(RelativePkgFolderPath)/CrtCopilotIntentsStudio/$(StandalonePackageAssemblyPath)/CrtCopilotIntentsStudio.dll</HintPath>
+		<Reference Include="CrtMobileFreedomUIStylesFor7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtMobileFreedomUIStylesFor7x/$(StandalonePackageAssemblyPath)/CrtMobileFreedomUIStylesFor7x.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -451,8 +451,23 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="FeatureToggling">
+			<HintPath>$(RelativePkgFolderPath)/FeatureToggling/$(StandalonePackageAssemblyPath)/FeatureToggling.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="OpenIdAuth">
 			<HintPath>$(RelativePkgFolderPath)/OpenIdAuth/$(StandalonePackageAssemblyPath)/OpenIdAuth.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtNextStep">
+			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtStudioCopilot">
+			<HintPath>$(RelativePkgFolderPath)/CrtStudioCopilot/$(StandalonePackageAssemblyPath)/CrtStudioCopilot.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -466,21 +481,6 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtStudioCopilot">
-			<HintPath>$(RelativePkgFolderPath)/CrtStudioCopilot/$(StandalonePackageAssemblyPath)/CrtStudioCopilot.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtNextStep">
-			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="FeatureToggling">
-			<HintPath>$(RelativePkgFolderPath)/FeatureToggling/$(StandalonePackageAssemblyPath)/FeatureToggling.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="XSSProtection">
 			<HintPath>$(RelativePkgFolderPath)/XSSProtection/$(StandalonePackageAssemblyPath)/XSSProtection.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -491,13 +491,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtProductivityMobile">
-			<HintPath>$(RelativePkgFolderPath)/CrtProductivityMobile/$(StandalonePackageAssemblyPath)/CrtProductivityMobile.dll</HintPath>
+		<Reference Include="CrtTouchPointBase">
+			<HintPath>$(RelativePkgFolderPath)/CrtTouchPointBase/$(StandalonePackageAssemblyPath)/CrtTouchPointBase.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtTouchPointBase">
-			<HintPath>$(RelativePkgFolderPath)/CrtTouchPointBase/$(StandalonePackageAssemblyPath)/CrtTouchPointBase.dll</HintPath>
+		<Reference Include="CrtProductivityMobile">
+			<HintPath>$(RelativePkgFolderPath)/CrtProductivityMobile/$(StandalonePackageAssemblyPath)/CrtProductivityMobile.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a1041924-2320-4fdf-ab36-58276b352a4b",
+    "Name": "UsrCalculateRealityAveragePriceProcessUsrReality4",
+    "ModifiedOnUtc": "\/Date(1757641837000)\/",
+    "Parent": {
+      "UId": "abc48055-8975-4b46-9025-b73d36268e8c",
+      "Name": "UsrCalculateRealityAveragePriceProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate reality average price",
+    "DependsOn": []
+  }
+}

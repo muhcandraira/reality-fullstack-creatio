@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "35507fd1-1a7f-41c8-a142-ef0af6f1753f",
+    "Name": "UsrRealityBusinessRule",
+    "ModifiedOnUtc": "\/Date(1757426647000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Reality (Business rules)",
+    "DependsOn": []
+  }
+}
